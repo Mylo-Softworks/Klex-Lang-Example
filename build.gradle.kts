@@ -11,7 +11,7 @@ repositories {
 }
 
 dependencies {
-    commonMainImplementation("com.github.Mylo-Softworks.Klex:Klex:b962dfca3a")
+    commonMainImplementation("com.github.Mylo-Softworks.Klex:Klex:c387dfb900")
 }
 
 kotlin {
